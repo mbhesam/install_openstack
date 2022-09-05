@@ -8,6 +8,7 @@ wget https://github.com/mbhesam/install_openstack_ceph/blob/main/globals.yml
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/password.yml
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/multinode 
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/req.txt
+install ansible=2.8.0
 if you want to set dummy interface : 
 ip link add dummy0 type dummy
 set network configuratoin of dummy interface like these links: 
