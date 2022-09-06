@@ -5,7 +5,7 @@ python3.6 -m venv kolla-openstack
 source kolla-opestack/bin/activate
 cd /etc/kolla/
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/globals.yml 
-wget https://github.com/mbhesam/install_openstack_ceph/blob/main/password.yml
+wget https://raw.githubusercontent.com/openstack/kolla-ansible/master/etc/kolla/passwords.yml
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/multinode 
 wget https://github.com/mbhesam/install_openstack_ceph/blob/main/req.txt
 install ansible=2.8.0
