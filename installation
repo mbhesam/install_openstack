@@ -1,4 +1,4 @@
-Install openstack with kolla-ansible :
+Installation openstack with kolla-ansible :
 apt install python3-dev libffi-dev gcc libssl-dev
 sudo apt install python3.6-venv
 python3.6 -m venv kolla-openstack
@@ -34,4 +34,4 @@ kolla-ansible -i ./multinode prechecks
 kolla-ansible -i ./multinode pull
 kolla-ansible -i ./multinode deploy
 
-
+593630199
