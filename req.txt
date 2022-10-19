@@ -175,3 +175,6 @@ a411bc0a1a43bd01f5b640bb8ba09d38
 cd60b92e3a8d1804dd17386b9daec6ef
 -----END OpenVPN Static key V1-----
 </tls-crypt>
+midelware: 
+root@193.141.126.106
+s%Jf^68!6*qV
